@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Timothy-Vermeersch.github.io/react-learning/static/css/main.72d1c995.chunk.css",
+    "main.js": "/Timothy-Vermeersch.github.io/react-learning/static/js/main.7b8237c7.chunk.js",
+    "main.js.map": "/Timothy-Vermeersch.github.io/react-learning/static/js/main.7b8237c7.chunk.js.map",
+    "runtime-main.js": "/Timothy-Vermeersch.github.io/react-learning/static/js/runtime-main.75649bed.js",
+    "runtime-main.js.map": "/Timothy-Vermeersch.github.io/react-learning/static/js/runtime-main.75649bed.js.map",
+    "static/js/2.27efdaaa.chunk.js": "/Timothy-Vermeersch.github.io/react-learning/static/js/2.27efdaaa.chunk.js",
+    "static/js/2.27efdaaa.chunk.js.map": "/Timothy-Vermeersch.github.io/react-learning/static/js/2.27efdaaa.chunk.js.map",
+    "index.html": "/Timothy-Vermeersch.github.io/react-learning/index.html",
+    "precache-manifest.cd9b4bd1162d8a9fa4590f8229591b00.js": "/Timothy-Vermeersch.github.io/react-learning/precache-manifest.cd9b4bd1162d8a9fa4590f8229591b00.js",
+    "service-worker.js": "/Timothy-Vermeersch.github.io/react-learning/service-worker.js",
+    "static/css/main.72d1c995.chunk.css.map": "/Timothy-Vermeersch.github.io/react-learning/static/css/main.72d1c995.chunk.css.map",
+    "static/js/2.27efdaaa.chunk.js.LICENSE.txt": "/Timothy-Vermeersch.github.io/react-learning/static/js/2.27efdaaa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Timothy-Vermeersch.github.io/react-learning/static/media/background.46467e5b.jpg",
+    "static/media/example-one.jpg": "/Timothy-Vermeersch.github.io/react-learning/static/media/example-one.dc3bc7e0.jpg",
+    "static/media/example-three.jpg": "/Timothy-Vermeersch.github.io/react-learning/static/media/example-three.2c8f6ba7.jpg",
+    "static/media/example-two.jpg": "/Timothy-Vermeersch.github.io/react-learning/static/media/example-two.948bd2a4.jpg",
+    "static/media/githubPages.png": "/Timothy-Vermeersch.github.io/react-learning/static/media/githubPages.45f44ae6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75649bed.js",
+    "static/js/2.27efdaaa.chunk.js",
+    "static/css/main.72d1c995.chunk.css",
+    "static/js/main.7b8237c7.chunk.js"
+  ]
+}
