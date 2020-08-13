@@ -14,7 +14,7 @@ class ProjectTab extends React.Component{
     render(){
         return(
             <Link to = {"Projects/" + this.path} >
-                <div className = "Project-Tab" style = {{backgroundImage: "url(./Images/ProjectTabs/" + this.src + ")"}}>
+                <div className = "Project-Tab" style = {{backgroundImage: "url(/Images/ProjectTabs/" + this.src + ")"}}>
                     <h2 onMouseLeave = {this.hideDescription} onMouseEnter = {this.showDescription} id = "title">{this.name}<p id = "description">{this.state.description}</p></h2>
                     
                 </div>
