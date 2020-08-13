@@ -1,0 +1,62 @@
+.game{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 11vh;
+    color: black;
+    font-size: 3vh;
+    width: 80%;
+    margin: auto;
+    background-color: whitesmoke;
+    width: fit-content;
+    padding: 3vh;
+    border-radius: 5px;
+  }
+
+  .game-board{
+      margin: auto;
+  }
+  
+  .square {
+    background:white;
+    border: 3px solid black;
+    float: left;
+    font-size: 10vh;
+    font-weight: bold;
+    line-height: 34px;
+    height: 20vh;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+    width: 20vh;
+  }
+  
+  #X{
+      color: red;
+      text-shadow: 2px 2px black;
+  }
+
+  #O{
+    text-shadow: 2px 2px black;
+      color: green;
+  }
+
+  .button{
+    border: none;
+    background-color: salmon;
+    color: white;
+    font-size: 3vh;
+    border-radius: 5px;
+    border-left: solid 1px white;
+    width: 33.3%;
+  }
+
+  #Game-Title{
+      margin:0px;
+      text-align: center;
+  }
+
+  .status{
+      margin:5px;
+  }

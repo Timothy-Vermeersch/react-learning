@@ -1,0 +1,28 @@
+#BJCards{
+    display: flex;
+}
+
+.BlackJack{
+    width: 80%;
+    background-color: white;
+    position: relative;
+    top: 11vh;
+    margin: auto;
+    margin-bottom: 5vh;
+    border-radius: 5px;
+}
+  
+#BlackJackSubTitle{
+    display: inline-block;
+}
+  
+#Button{
+    border: none;
+    border-right: solid 1px white;
+    background-color: #ff5555;
+    height: 5vh;
+    min-width: 8vh;
+    color: white;
+    font-size: 2vh;
+    border-bottom-left-radius: 5px;
+}

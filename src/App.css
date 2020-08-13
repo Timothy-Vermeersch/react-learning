@@ -1,0 +1,173 @@
+.Page {
+  background-color: #282c34;
+  text-align: center;
+  overflow-x: hidden;
+}
+
+body{
+  min-height: fit-content;
+  width: initial;
+}
+
+.Page-header {
+  text-align: left;
+  word-wrap: normal;
+  background-color: #282c34;
+  color: white;
+  background-color: #ff5555;
+  width: 100%;
+  height: 10vh;
+  position: fixed;
+  z-index: 1;
+  overflow: hidden;
+  text-overflow: hidden;
+  display:flex;
+  top:0;
+}
+
+.Pages-logo{
+  height: 100%;
+  width: max-content;
+}
+
+#pages-image{
+  height: 100%;
+}
+
+#Header-title{
+  position: relative;
+  font-size: 4vh;
+}
+
+html{
+  background-color: #282c34;
+}
+
+.Tabs{
+  position: relative;
+  right: 1px;
+  padding-left: 10px;
+  top: 1%;
+  text-decoration: overline;
+  font-size: 120%;
+  color:white;
+}
+
+#Top-Tabs{
+  position: fixed;
+  right: 2%;
+}
+
+#Welcome{
+  position: static;
+  top: 10%;
+  height: 50vh;
+  width: 100%;
+  background-image: url(Images/background.jpg);
+  background-size: cover;
+  overflow: hidden;
+}
+
+#SubTitle{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 5vh;
+}
+
+#Home{
+  position: relative;
+  top: 10vh;
+  text-align: center;
+  color: white;
+}
+
+#Featured{
+  position: relative;
+  top: 50%;
+  width: 100%;
+}
+
+.Project-Tab{
+  width: 48vw;
+  height: 27vw;
+  margin-left:auto;
+  margin-right: auto;
+  background-size: contain;
+  border: solid salmon 5px;
+  background-color: salmon;
+  background-size: cover;
+}
+
+#Project-Tab-Image{
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+#Project-Tab-Text{
+  position: relative;
+  color: black;
+  width: inherit;
+  display: inline;
+}
+
+#Project-Tab-Title{
+  margin-top:0px;
+  margin-left: 1%;
+  font-size: 3vh;
+  width: 100%;
+}
+
+#Project-Link{
+  width: 60%;
+}
+
+#Project-List{
+  position: relative;
+  top: 11vh;
+}
+
+#Small-Link{
+  color: white;
+}
+
+#Red-Card{
+  color: red;
+}
+
+#Black-Card{
+  color:black;
+}
+
+#Face-Down-Card{
+  border: 1px dashed red;
+  background-color: rgb(255, 236, 236);
+}
+
+.Card{
+  height: 18vh;
+  width: 12vh;
+  font-size: 2vh;
+  position: relative;
+  background-color: whitesmoke;
+  border: solid 1px black;
+  margin-left: 1vh;
+  margin-top: 1vh;
+  display: flex;
+}
+
+#Controls{
+  width: 100%;
+  margin-top: 3vh;
+  background-color: #ff5555;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+#featured-game{
+  margin-right: 35vw;
+  margin-left: 31vw;
+  align-self: center;
+  width: fit-content;
+  padding-bottom: 5vh;
+}

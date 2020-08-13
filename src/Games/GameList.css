@@ -1,0 +1,43 @@
+.Game-Tab{
+    width: 30vw;
+    height: 30vw;
+    margin-left:2.5vw;
+    background-size: contain;
+    border: solid salmon 5px;
+    background-color: salmon;
+    background-size: cover;
+}
+
+#Games-List{
+    display: flex;
+    margin-top:11vh;
+}
+
+#title{
+    background-color: salmon;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: 75%;
+    height: 20%;
+    top: 30%;
+    margin-top: 0px;
+    font-size: 5vh;
+    color:white;
+    text-decoration: black underline;
+    transition: width 0.1s, height 1s, top 1s;
+}
+
+#description{
+    font-size: 2.5vh;
+}
+
+
+#title:hover {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    border: solid 1px salmon;
+    margin-left: -1px;
+}
